@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #800020;
+    background-color: #f05f40;
 }
 
 .bg-dark {
@@ -348,7 +348,7 @@ header .header-content .header-content-inner p {
 .open > .dropdown-toggle.btn-default {
     border-color: #ededed;
     color: #222;
-    background-color: #CB99C9;
+    background-color: #f05f40;
 }
 
 .btn-default:active,
@@ -473,4 +473,15 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #222;
+}
+
+.garo{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border: solid 2px #f05f40;
+}
+.resize {
+    height: 29.167em;
+    width: 54.167em;
 }
